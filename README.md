@@ -1,0 +1,1 @@
+This project categorizes newspaper news by using artificial neural networks method. It classifies news texts into seven different categories. The model is trained using a ready-made data set and is applied on data obtained by web scraping method.
